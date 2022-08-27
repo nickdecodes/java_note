@@ -1,2 +1,2 @@
-# java
-java
+# java_note
+java_note
